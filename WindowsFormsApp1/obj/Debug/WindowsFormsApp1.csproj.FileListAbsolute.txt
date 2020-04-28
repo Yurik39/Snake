@@ -1,0 +1,13 @@
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Snake.Form1.resources
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Images.resources
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Snake.Form1.ja-JP.resources
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snake.exe.config
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snake.exe
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Snake.pdb
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja-JP\Snake.resources.dll
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ja-JP\Snake.resources.dll
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Snake.exe
+C:\Users\yurik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Snake.pdb
